@@ -1,4 +1,4 @@
-# Dev-Company
+# Sales, Marketing & Market Geography Analytics Dashboard
 ---
 # Goal: Develop reports, business plans, and advertising strategies to reach more potential customers.
   ## Data:
